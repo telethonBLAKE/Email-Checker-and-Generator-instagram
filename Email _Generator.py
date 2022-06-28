@@ -1,16 +1,16 @@
 # Python version: 3.9.7
 # Date: 6/23/2022
-# Author: Mohammed Hassan
+# Author: Blake @A_W_9
 # Description: Email Generator
-# Telegram channel: https://t.me/python_2
+# Telegram channel: https://t.me/J_P_1
 
 #Libraries
 import string
 import random
 
 #Msg start
-print("Telegram Channel:"'\n'"https://t.me/python_2")
-print("1 - yahoo"'\n'"2 - gmail"'\n'"3- Hotmail"'\n'"Choose any domail")
+print("Telegram Channel:"'\n'"https://t.me/J_P_1")
+print("1 - yahoo"'\n'"2 - gmail"'\n'"3- Hotmail"'\n'"Choose any domain")
 
 #Variables
 letters = string.ascii_lowercase
